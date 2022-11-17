@@ -1,0 +1,5 @@
+[submodule "tgstation"]
+	path = tgstation
+	url = https://github.com/tgstation/tgstation.git
+	branch = master
+	ignore = dirty
